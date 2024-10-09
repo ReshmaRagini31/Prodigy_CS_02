@@ -1,4 +1,4 @@
-# Pixel Manipulation Image Encryptor/Decryptor
+# Pixel Manipulation for Image Encryption and Decryption
 
 This project provides a GUI-based application for encrypting and decrypting images using pixel manipulation techniques. The application uses a simple XOR encryption method to secure image data. It is built with Python and leverages the Tkinter library for a user-friendly interface.
 
